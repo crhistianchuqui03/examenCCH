@@ -68,12 +68,10 @@ public class resolucionexamen {
   }
 
   public void resolucion4cch() {
-    //definir variables
     int i;
     int j;
     int suma;
     int cat = 0;
-    //datos entrada proceso y salida
     System.out.print( "introdusca la cantidad de numeros perfectos que desea observar: ");
     int canti = leer.nextInt();
     System.out.println("Los numero perfectos son: ");
